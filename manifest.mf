@@ -1,0 +1,1 @@
+SplashScreen-Image: notepad/mygif.gif
